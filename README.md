@@ -16,5 +16,5 @@
 ![Foo](https://lifechrome.com/wp-content/uploads/2019/08/1.Growth-Mindset-Quotes-J.-K-1.jpg) 
 
 
-[my page ](https://kefahmomani.github.io/reading-note/)
+[my page ](https://kefahmomani.github.io/reading-note/) 
 
