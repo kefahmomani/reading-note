@@ -2,8 +2,7 @@
 
 ### kefah jamil 
 
-# My pont if view of growthing  mindset>
-
+# My pont if view of growthing  mindset ..
 ## growth  mindset  mean person must  keping  him self up to date with all aspect  of his  life  by learning  much more about how to be improving .
 
 
