@@ -16,4 +16,4 @@
 ![Foo](https://lifechrome.com/wp-content/uploads/2019/08/1.Growth-Mindset-Quotes-J.-K-1.jpg) 
 
 
-[my page ](https://thriveglobal.com/stories/20-inspirational-growth-mindset-quotes-that-will-change-your-life/)
+[my page ](https://kefahmomani.github.io/reading-note/)
