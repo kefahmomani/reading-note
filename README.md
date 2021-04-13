@@ -7,12 +7,12 @@ CLASS  | TOPIC
 Lab: 01a | Set up your accounts | 
 Lab: 01b | [Learning Markdown ](https://kefahmomani.github.io/reading-note/) 
 Read: 01 | [Learning Markdown ](https://kefahmomani.github.io/reading-note/) 
-Read: 02 | [Learning Markdown ](https://kefahmomani.github.io/reading-note/)
-Class 02 | [Learning Markdown ](https://kefahmomani.github.io/reading-note/)
-Lab: 02 | [Learning Markdown ](https://kefahmomani.github.io/reading-note/)
-Lab: 03 | [Learning Markdown ](https://kefahmomani.github.io/reading-note/) 
-Read: 03  | [Learning Markdown ](https://kefahmomani.github.io/reading-note/) 
-Class 03  | [Learning Markdown ](https://kefahmomani.github.io/reading-note/)
+Read: 02 | [Revisions and the Cloud ](https://kefahmomani.github.io/reading-note/)
+Class 02 | [Markdown  ](https://kefahmomani.github.io/reading-note/)
+Lab: 02 | [Revisions and the Cloud  ](https://kefahmomani.github.io/reading-note/)
+Lab: 03 | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/) 
+Read: 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/) 
+Class 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/)
 
 
 
