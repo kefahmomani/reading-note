@@ -2,6 +2,22 @@
 I worked as a salesman for the last 6 years in my life, now iam very intrected to learn softwar devloper to improve my technical skills.
 
 
-[my page ](https://kefahmomani.github.io/reading-note/) 
+CLASS  | TOPIC
+------------ | -------------
+Lab: 01a | Set up your accounts | 
+Lab: 01b | Learning Markdown 
+Read: 01 | Learning Markdown
+Read: 02 | Revisions and the Cloud
+Class 02 | Markdown
+Lab: 02 | Revisions and the Cloud
+Lab: 03 | Structure web pages with HTML 
+Read: 03  | Structure web pages with HTML 
+Class 03  | Structure web pages with HTML
+
+
+
+
+[my main page ](https://kefahmomani.github.io/reading-note/) 
+
 
 
