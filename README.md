@@ -5,7 +5,7 @@ I worked as a salesman for the last 6 years in my life, now iam very intrected t
 CLASS  | TOPIC
 ------------ | -------------
 Lab: 01a | Set up your accounts | 
-Lab: 01b | [Structure web pages with HTML ](https://kefahmomani.github.io/reading-note/) 
+Lab: 01b | [Learning Markdown ](https://kefahmomani.github.io/reading-note/) 
 Read: 01 | Learning Markdown
 Read: 02 | Revisions and the Cloud
 Class 02 | Markdown
