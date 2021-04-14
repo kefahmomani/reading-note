@@ -27,7 +27,6 @@ Read: 04b  | [Computer Architecture and Logic](https://kefahmomani.github.io/rea
 
 
 
-
 [my main page ](https://kefahmomani.github.io/reading-note/) 
 
 
