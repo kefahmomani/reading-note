@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+ 
+ 
 # iam kefah jamil i have,graduated from arabic college with diploma degree in tourism and hotel management .
 I worked as a salesman for the last 6 years in my life, now iam very intrected to learn softwar devloper to improve my technical skills.
 =======
@@ -26,8 +27,6 @@ Read: 04b  | [Computer Architecture and Logic](https://kefahmomani.github.io/rea
 
 
 
-
->>>>>>> 1d6142ba682c9c345a64849786a1d1c7b2916fcc
 
 
 [my main page ](https://kefahmomani.github.io/reading-note/) 
