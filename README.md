@@ -18,8 +18,8 @@ Lab: 03 | [tructure web pages with HTML ](https://new-project.kefahjordan.repl.c
 Read: 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/readme-class03) 
 Class 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/)
 Read: 04a  | [Dynamic web pages with JavaScript ](https://kefahmomani.github.io/reading-note/read04)
-Lab: 04   | [Activate web pages with JavaScript ](https://kefahmomani.github.io/reading-note/
-Read: 04b  | [Computer Architecture and Logic](https://kefahmomani.github.io/reading-note/
+Lab: 04   | [Activate web pages with JavaScript ](https://kefahmomani.github.io/reading-note/)
+Read: 04b  | [Computer Architecture and Logic](https://kefahmomani.github.io/reading-note/)
 
 
 
