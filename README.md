@@ -2,8 +2,7 @@
 # iam kefah jamil i have,graduated from arabic college with diploma degree in tourism and hotel management .
 I worked as a salesman for the last 6 years in my life, now iam very intrected to learn softwar devloper to improve my technical skills.
 =======
-# iam kefah jamil i have,graduated from arabic college with diploma degree in tourism and hotel management 
-# I worked as a salesman for the last 6 years in my life, now iam very intrected to learn softwar devloper to improve my technical skills.
+
 
 
 CLASS  | TOPIC
@@ -17,6 +16,12 @@ Lab: 02 | [Revisions and the Cloud  ](https://kefahmomani.github.io/reading-note
 Lab: 03 | [tructure web pages with HTML ](https://new-project.kefahjordan.repl.co/) 
 Read: 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/readme-class03) 
 Class 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/)
+Read: 04a  | [Dynamic web pages with JavaScript ](https://kefahmomani.github.io/reading-note/read04)
+Lab: 04   | [Activate web pages with JavaScript ](https://kefahmomani.github.io/reading-note/
+Read: 04b  | [Computer Architecture and Logic](https://kefahmomani.github.io/reading-note/
+
+
+
 
 
 
