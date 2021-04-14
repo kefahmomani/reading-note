@@ -1,4 +1,7 @@
+# welcome to read04 ^.^ 
+
 #  what is the javascrept
+
 
 
 ![ggg](https://miro.medium.com/max/700/1*JTVWHBtzlA9P6iKMxCF2yQ.png)
