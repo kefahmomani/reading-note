@@ -11,7 +11,7 @@ Read: 02 | [Revisions and the Cloud ](https://kefahmomani.github.io/readme-2/)
 Class 02 | [Markdown  ](https://kefahmomani.github.io/reading-note/)
 Lab: 02 | [Revisions and the Cloud  ](https://kefahmomani.github.io/reading-note/)
 Lab: 03 | [tructure web pages with HTML ](https://new-project.kefahjordan.repl.co/) 
-Read: 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/) 
+Read: 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/readme-class03) 
 Class 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/reading-note/)
 
 
