@@ -233,7 +233,9 @@ To continue learning more about JavaScript, check out our How To Code in JavaScr
 
 
 
-# JavaScript while and do...while Loop
+# JavaScript while Loop and For Loop
+![ggg](https://cdn.programiz.com/sites/tutorial2program/files/javascript-while-loop.png)
+
 
 The while statement creates a loop that executes a specified statement as long as the test condition evaluates to true. The condition is evaluated before executing the statement
 JavaScript while Loop
