@@ -1,10 +1,6 @@
 # Comparison and Logical Operators
 
-https://cdn.programiz.com/sites/tutorial2program/files/javascript-for-loop.png
-
 ![ggg](https://chunxuchai.files.wordpress.com/2019/05/comparison-operator.jpg)
-
-![55](https://chunxuchai.files.wordpress.com/2019/05/comparison-operator.jpg)
 
 The field of computer science has many foundations in mathematical logic. If you have a familiarity with logic, you know that it involves truth tables, Boolean algebra, and comparisons to determine equality or difference.
 The JavaScript programming language uses operators to evaluate statements that can aid in control flow within programming. 
@@ -13,9 +9,7 @@ Comparison Operators
 In JavaScript, there are a number of comparison operators that you can use to evaluate whether given values are different or equal, as well as if a value is greater than or less than another. Often, these operators are used with stored values in variables. 
 Comparison operators all return a Boolean (logical) value of true or false. 
 The table below summarizes the comparison operators available in JavaScript.
-
 Operator	What it means
-
 ==	Equal to
 !=	Not equal to
 ===	Strictly equal to with no type conversion
@@ -255,7 +249,7 @@ Here,
 5.	When the condition evaluates to false, the loop stops.
 JavaScript Loops
 
-The while Loop
+# The while Loop
 This is the simplest looping statement provided by JavaScript.
 The while loop loops through a block of code as long as the specified condition evaluates to true. As soon as the condition fails, the loop is stopped. The generic syntax of the while loop is:
 while(condition) {
@@ -271,7 +265,8 @@ while(i <= 5) {
 }
 Note: Make sure that the condition specified in your loop eventually goes false. Otherwise, the loop will never stop iterating which is known as infinite loop. A common mistake is to forget to increment the counter variable (variable i in our case). 
 
-The for Loop
+# The for Loop
+
 The for loop repeats a block of code as long as a certain condition is met. It is typically used to execute a block of code for certain number of times. Its syntax is:
 for(initialization; condition; increment) {
     // Code to be executed
