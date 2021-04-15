@@ -19,6 +19,8 @@ Class 03  | [tructure web pages with HTML ](https://kefahmomani.github.io/readin
 Read: 04a  | [Dynamic web pages with JavaScript ](https://kefahmomani.github.io/reading-note/read04)
 Lab: 04   | [Activate web pages with JavaScript ](https://kefahmomani.github.io/new-project/)
 Read: 04b  | [Computer Architecture and Logic](https://kefahmomani.github.io/reading-note/read04b)
+Read: 05  | [Operators and Loops](https://kefahmomani.github.io/reading-note.md/read05)
+lab:  05  | [Operators and Loops](https://kefahmomani.github.io/new-project/)
 
 
 
