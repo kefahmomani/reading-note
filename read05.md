@@ -2,24 +2,22 @@
 
 ![ggg](https://chunxuchai.files.wordpress.com/2019/05/comparison-operator.jpg)
 
-The field of computer science has many foundations in mathematical logic. If you have a familiarity with logic, you know that it involves truth tables, Boolean algebra, and comparisons to determine equality or difference.
+## The field of computer science has many foundations in mathematical logic. If you have a familiarity with logic, you know that it involves truth tables, Boolean algebra, and comparisons to determine equality or difference.
+
 The JavaScript programming language uses operators to evaluate statements that can aid in control flow within programming. 
+
 In this tutorial, we’ll go over logical operators. These are commonly used with conditional statements, and the if, else, and else if keywords, as well as the ternary operator. If you are interested in learning more about conditional statements first, refer to How To Write Conditional Statements in JavaScript.
 Comparison Operators
 In JavaScript, there are a number of comparison operators that you can use to evaluate whether given values are different or equal, as well as if a value is greater than or less than another. Often, these operators are used with stored values in variables. 
 Comparison operators all return a Boolean (logical) value of true or false. 
 The table below summarizes the comparison operators available in JavaScript.
-Operator	What it means
-==	Equal to
-!=	Not equal to
-===	Strictly equal to with no type conversion
-! ==	Strictly unequal to with no type conversion
->	Greater than
->=	Greater than or equal to
-<	Less than
-<=	Less than or equal to
+
+# Operator	What it means
+
+
+
 Let’s go into each operator in detail. 
-Equality
+-Equality
 The equality operator measures whether values on either side of the operator are equal.
 Let’s consider the following:
 let x = 3;
@@ -294,4 +292,4 @@ for(var i=0; i<fruits.length; i++) {
     document.write("<p>" + fruits[i] + "</p>");
 }
 
-
+>  editing by kefah
