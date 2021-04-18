@@ -27,10 +27,7 @@ lab:  05  | [Operators and Loops](https://kefahmomani.github.io/new-project/)
 
 
 
-<<<<<<< HEAD
->>>>>>> 1d6142ba682c9c345a64849786a1d1c7b2916fcc
-=======
->>>>>>> bb3955e89c5be2aedb0931456f0ba7fb9780495b
+
 
 
 [my main page ](https://kefahmomani.github.io/reading-note/) 
