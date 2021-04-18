@@ -20,6 +20,8 @@ Lab: 04   | [Activate web pages with JavaScript ](https://kefahmomani.github.io/
 Read: 04b  | [Computer Architecture and Logic](https://kefahmomani.github.io/reading-note/read04b)
 Read: 05  | [Operators and Loops](https://kefahmomani.github.io/reading-note.md/read05)
 lab:  05  | [Operators and Loops](https://kefahmomani.github.io/new-project/)
+read:  06  | [ Programming with JavaScript](https://kefahmomani.github.io/reading-note/read06)
+read:  07  | [Design web pages with CSS](https://kefahmomani.github.io/reading-note/read07)
 
 
 
