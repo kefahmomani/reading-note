@@ -22,6 +22,8 @@ Read: 05  | [Operators and Loops](https://kefahmomani.github.io/reading-note.md/
 lab:  05  | [Operators and Loops](https://kefahmomani.github.io/new-project/)
 read:  06  | [ Programming with JavaScript](https://kefahmomani.github.io/reading-note/read06)
 read:  07  | [Design web pages with CSS](https://kefahmomani.github.io/reading-note/read07)
+lab:  06  | [ Programming with JavaScript](https://kefahmomani.github.io/reading-note/read06)
+lab:  07  | [Design web pages with CSS](https://kefahmomani.github.io/reading-note/read07)
 
 
 
